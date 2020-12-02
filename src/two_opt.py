@@ -1,12 +1,18 @@
 import logging
 import time
 
-from util import get_edge_sum
-
 logging.basicConfig(format='%(asctime)s %(message)s', level=10)
 
-def two_opt(problem):
-    
+def two_opt(problem, F_TIME_LIMIT=600):
+    """ 2-opt algorithm
+
+    Args:
+        problem ([TSPLIB object]): problem to be solved
+        F_TIME_LIMIT (int, optional): function (overall) time limit in seconds. Defaults to 600.
+
+    Returns:
+        [dict]: contains the solution comprising of path_length, path, time
+    """    
     #get graph
     G = problem.get_graph()
     
@@ -27,7 +33,7 @@ def two_opt(problem):
     best_path_len = path_len
     
     try:
-        while improvement:
+        while improvement and time.perf_counter()-stime < F_TIME_LIMIT:
             new_path = path
             new_best = best_path_len
             for i in range(nodes[0], nodes[-1]+1):
