@@ -8,20 +8,22 @@ from util import *
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=10)
 
-def MTZ(problem, SOLVER_NAME="cplex", TIME_LIMIT=600):
-    """MTZ method for TSPLIB problems
+def mtz(problem, SOLVER_NAME="cplex", TIME_LIMIT=600):
+    """ LP MTZ formulation
 
     Args:
         problem ([TSPLIB object]): problem to be solved
         SOLVER_NAME (str, optional): solver to be used. Defaults to "cplex".
-        TIME_LIMIT (int, optional): solution time limit in seconds. Defaults to 600.
+        TIME_LIMIT (int, optional): solver time limit in seconds. Defaults to 600.
 
     Raises:
         Exception: Pyomo or solver exceptions
 
     Returns:
-        [dict]: path_length, path, time
+        [dict]: contains the solution comprising of path_length, path, time
+        [Pyomo model]: solved Pyomo model
     """
+
     if SOLVER_NAME.lower() not in ["glpk", "cplex", "gurobi", "ipopt"]:
         raise ValueError('Solver not implemented. Choose from: "glpk", "cplex", "gurobi", "ipopt"')
 
@@ -105,7 +107,7 @@ def MTZ(problem, SOLVER_NAME="cplex", TIME_LIMIT=600):
     ftime = time.perf_counter()
     
     sol = {
-        "path_length": get_edge_sum(H),
+        "path_length": H.size(weight='weight'),
         "path": new_edges,
         "time": ftime-stime
     }
