@@ -8,12 +8,23 @@ from util import *
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=10)
 
-def DFJ(problem, SOLVER_NAME="cplex", TIME_LIMIT=60, F_TIME_LIMIT=600):
-    """
-    subtour method 
+def dfj(problem, SOLVER_NAME="cplex", TIME_LIMIT=60, F_TIME_LIMIT=600):
+    """ LP Iterative subtour elimination (DFJ) formulation
+
+    Args:
+        problem ([TSPLIB object]): problem to be solved
+        SOLVER_NAME (str, optional): solver to be used. Defaults to "cplex".
+        TIME_LIMIT (int, optional): solver time limit in seconds. Defaults to 60.
+        F_TIME_LIMIT (int, optional): function (overall) time limit in seconds. Defaults to 600.
+
+    Raises:
+        ValueError: Pyomo or solver exceptions
+
+    Returns:
+        [dict]: contains the solution comprising of path_length, path, time
+        [Pyomo model]: solved Pyomo model (last iteration)
+    """    
     
-    problem [TSPLIB object] - representation of the problem
-    """
     if SOLVER_NAME.lower() not in ["glpk", "cplex", "gurobi", "ipopt"]:
         raise ValueError('Solver not implemented. Choose from: "glpk", "cplex", "gurobi", "ipopt"')
     
@@ -106,13 +117,12 @@ def DFJ(problem, SOLVER_NAME="cplex", TIME_LIMIT=60, F_TIME_LIMIT=600):
     ftime = time.perf_counter()
         
     sol = {
-        "path_length": get_edge_sum(H),
+        "path_length": H.size(weight='weight'),
         "path": new_edges,
-        "path_qa": len(new_edges),
         "time": ftime-stime
     }
     
-    return sol
+    return sol, result
 
 def _find_subtours(H, G, shifted_idx):
 
