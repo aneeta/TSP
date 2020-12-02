@@ -1,8 +1,4 @@
 
-
-def get_edge_sum(G):
-    return sum([G[i][j]["weight"] for (i,j) in G.edges])
-
 def transform_edge_list(edges, short = True):
     edges_dict = dict(edges)
     elem = edges[0][0]  # start point in the new list
