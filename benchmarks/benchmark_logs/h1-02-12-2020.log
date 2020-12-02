@@ -1,0 +1,92 @@
+2020-12-02 10:52:54,938 Solving with method two_opt
+2020-12-02 10:52:54,938 Solving problem a280
+2020-12-02 10:52:54,938 Solving with option (45,)
+2020-12-02 10:52:55,582 Choosing best initial path
+2020-12-02 10:53:24,705 Swapping edges
+2020-12-02 10:53:49,637 Solving problem att48
+2020-12-02 10:53:49,638 Solving with option (45,)
+2020-12-02 10:53:49,656 Choosing best initial path
+2020-12-02 10:53:49,811 Swapping edges
+2020-12-02 10:53:50,451 Solving problem bayg29
+2020-12-02 10:53:50,451 Solving with option (45,)
+2020-12-02 10:53:50,458 Choosing best initial path
+2020-12-02 10:53:50,495 Swapping edges
+2020-12-02 10:53:50,628 Solving problem bays29
+2020-12-02 10:53:50,628 Solving with option (45,)
+2020-12-02 10:53:50,634 Choosing best initial path
+2020-12-02 10:53:50,672 Swapping edges
+2020-12-02 10:53:50,744 Solving problem berlin52
+2020-12-02 10:53:50,744 Solving with option (45,)
+2020-12-02 10:53:50,767 Choosing best initial path
+2020-12-02 10:53:50,980 Swapping edges
+2020-12-02 10:53:51,678 Solving problem brg180
+2020-12-02 10:53:51,678 Solving with option (45,)
+2020-12-02 10:53:51,966 Choosing best initial path
+2020-12-02 10:53:59,911 Swapping edges
+2020-12-02 10:54:09,348 Solving problem ch130
+2020-12-02 10:54:09,349 Solving with option (45,)
+2020-12-02 10:54:09,466 Choosing best initial path
+2020-12-02 10:54:12,617 Swapping edges
+2020-12-02 10:54:55,056 Solving problem ch150
+2020-12-02 10:54:55,056 Solving with option (45,)
+2020-12-02 10:54:55,225 Choosing best initial path
+2020-12-02 10:54:59,598 Swapping edges
+2020-12-02 10:55:40,424 Solving problem eil101
+2020-12-02 10:55:40,424 Solving with option (45,)
+2020-12-02 10:55:40,496 Choosing best initial path
+2020-12-02 10:55:41,760 Swapping edges
+2020-12-02 10:55:58,426 Solving problem eil51
+2020-12-02 10:55:58,426 Solving with option (45,)
+2020-12-02 10:55:58,444 Choosing best initial path
+2020-12-02 10:55:58,602 Swapping edges
+2020-12-02 10:55:59,419 Solving problem eil76
+2020-12-02 10:55:59,419 Solving with option (45,)
+2020-12-02 10:55:59,460 Choosing best initial path
+2020-12-02 10:55:59,975 Swapping edges
+2020-12-02 10:56:02,614 Solving problem fri26
+2020-12-02 10:56:02,615 Solving with option (45,)
+2020-12-02 10:56:02,619 Choosing best initial path
+2020-12-02 10:56:02,642 Swapping edges
+2020-12-02 10:56:02,657 Solving problem gr120
+2020-12-02 10:56:02,657 Solving with option (45,)
+2020-12-02 10:56:02,749 Choosing best initial path
+2020-12-02 10:56:05,174 Swapping edges
+2020-12-02 10:56:32,027 Solving problem gr202
+2020-12-02 10:56:32,027 Solving with option (45,)
+2020-12-02 10:56:32,402 Choosing best initial path
+2020-12-02 10:56:43,264 Swapping edges
+2020-12-02 10:57:19,134 Solving problem gr24
+2020-12-02 10:57:19,134 Solving with option (45,)
+2020-12-02 10:57:19,138 Choosing best initial path
+2020-12-02 10:57:19,157 Swapping edges
+2020-12-02 10:57:19,213 Solving with method christofides
+2020-12-02 10:57:19,213 Solving problem a280
+2020-12-02 10:57:19,213 Solving without options
+2020-12-02 10:57:20,765 Solving problem att48
+2020-12-02 10:57:20,765 Solving without options
+2020-12-02 10:57:20,821 Solving problem bayg29
+2020-12-02 10:57:20,821 Solving without options
+2020-12-02 10:57:20,834 Solving problem bays29
+2020-12-02 10:57:20,834 Solving without options
+2020-12-02 10:57:20,852 Solving problem berlin52
+2020-12-02 10:57:20,852 Solving without options
+2020-12-02 10:57:20,893 Solving problem brg180
+2020-12-02 10:57:20,894 Solving without options
+2020-12-02 10:57:21,226 Solving problem ch130
+2020-12-02 10:57:21,226 Solving without options
+2020-12-02 10:57:21,502 Solving problem ch150
+2020-12-02 10:57:21,502 Solving without options
+2020-12-02 10:57:21,874 Solving problem eil101
+2020-12-02 10:57:21,874 Solving without options
+2020-12-02 10:57:22,089 Solving problem eil51
+2020-12-02 10:57:22,090 Solving without options
+2020-12-02 10:57:22,130 Solving problem eil76
+2020-12-02 10:57:22,130 Solving without options
+2020-12-02 10:57:22,238 Solving problem fri26
+2020-12-02 10:57:22,238 Solving without options
+2020-12-02 10:57:22,252 Solving problem gr120
+2020-12-02 10:57:22,252 Solving without options
+2020-12-02 10:57:22,644 Solving problem gr202
+2020-12-02 10:57:22,644 Solving without options
+2020-12-02 10:57:24,154 Solving problem gr24
+2020-12-02 10:57:24,155 Solving without options

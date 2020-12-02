@@ -1,0 +1,562 @@
+2020-12-02 02:41:21,188 Solving with method dfj
+2020-12-02 02:41:21,188 Solving problem a280
+2020-12-02 02:41:21,188 Solving with option ('cplex', 60, 600)
+2020-12-02 02:41:22,106 Building the model
+2020-12-02 02:41:23,697 Solving the model
+2020-12-02 02:43:42,589 Solving with option ('cplex', 60, 1500)
+2020-12-02 02:43:43,305 Building the model
+2020-12-02 02:43:44,511 Solving the model
+2020-12-02 02:46:03,648 Solving with option ('cplex', 300, 600)
+2020-12-02 02:46:04,316 Building the model
+2020-12-02 02:46:05,486 Solving the model
+2020-12-02 02:48:27,289 Solving with option ('cplex', 300, 1500)
+2020-12-02 02:48:27,979 Building the model
+2020-12-02 02:48:29,188 Solving the model
+2020-12-02 02:50:49,400 Solving with option ('gurobi', 60, 600)
+2020-12-02 02:50:50,502 Building the model
+2020-12-02 02:50:51,785 Solving the model
+2020-12-02 02:50:51,790 Using license file /Users/anetaswianiewicz/gurobi.lic
+2020-12-02 02:50:51,790 Academic license - for non-commercial use only
+2020-12-02 02:53:30,108 Solving with option ('gurobi', 60, 1500)
+2020-12-02 02:53:30,961 Building the model
+2020-12-02 02:53:32,860 Solving the model
+2020-12-02 02:56:09,586 Solving with option ('gurobi', 300, 600)
+2020-12-02 02:56:10,492 Building the model
+2020-12-02 02:56:12,058 Solving the model
+2020-12-02 02:58:50,014 Solving with option ('gurobi', 300, 1500)
+2020-12-02 02:58:50,850 Building the model
+2020-12-02 02:58:52,118 Solving the model
+2020-12-02 03:01:33,178 Solving problem att48
+2020-12-02 03:01:33,179 Solving with option ('cplex', 60, 600)
+2020-12-02 03:01:33,201 Building the model
+2020-12-02 03:01:33,232 Solving the model
+2020-12-02 03:01:34,420 Solving with option ('cplex', 60, 1500)
+2020-12-02 03:01:34,441 Building the model
+2020-12-02 03:01:34,471 Solving the model
+2020-12-02 03:01:35,861 Solving with option ('cplex', 300, 600)
+2020-12-02 03:01:35,885 Building the model
+2020-12-02 03:01:35,919 Solving the model
+2020-12-02 03:01:37,260 Solving with option ('cplex', 300, 1500)
+2020-12-02 03:01:37,285 Building the model
+2020-12-02 03:01:37,320 Solving the model
+2020-12-02 03:01:38,775 Solving with option ('gurobi', 60, 600)
+2020-12-02 03:01:38,803 Building the model
+2020-12-02 03:01:38,851 Solving the model
+2020-12-02 03:01:40,538 Solving with option ('gurobi', 60, 1500)
+2020-12-02 03:01:40,568 Building the model
+2020-12-02 03:01:40,610 Solving the model
+2020-12-02 03:01:42,085 Solving with option ('gurobi', 300, 600)
+2020-12-02 03:01:42,108 Building the model
+2020-12-02 03:01:42,165 Solving the model
+2020-12-02 03:01:43,541 Solving with option ('gurobi', 300, 1500)
+2020-12-02 03:01:43,563 Building the model
+2020-12-02 03:01:43,595 Solving the model
+2020-12-02 03:01:44,827 Solving problem bayg29
+2020-12-02 03:01:44,827 Solving with option ('cplex', 60, 600)
+2020-12-02 03:01:44,836 Building the model
+2020-12-02 03:01:44,848 Solving the model
+2020-12-02 03:01:45,204 Solving with option ('cplex', 60, 1500)
+2020-12-02 03:01:45,213 Building the model
+2020-12-02 03:01:45,227 Solving the model
+2020-12-02 03:01:45,542 Solving with option ('cplex', 300, 600)
+2020-12-02 03:01:45,551 Building the model
+2020-12-02 03:01:45,565 Solving the model
+2020-12-02 03:01:45,915 Solving with option ('cplex', 300, 1500)
+2020-12-02 03:01:45,924 Building the model
+2020-12-02 03:01:45,964 Solving the model
+2020-12-02 03:01:46,296 Solving with option ('gurobi', 60, 600)
+2020-12-02 03:01:46,304 Building the model
+2020-12-02 03:01:46,317 Solving the model
+2020-12-02 03:01:46,583 Solving with option ('gurobi', 60, 1500)
+2020-12-02 03:01:46,591 Building the model
+2020-12-02 03:01:46,604 Solving the model
+2020-12-02 03:01:46,868 Solving with option ('gurobi', 300, 600)
+2020-12-02 03:01:46,875 Building the model
+2020-12-02 03:01:46,888 Solving the model
+2020-12-02 03:01:47,156 Solving with option ('gurobi', 300, 1500)
+2020-12-02 03:01:47,164 Building the model
+2020-12-02 03:01:47,176 Solving the model
+2020-12-02 03:01:47,421 Solving problem bays29
+2020-12-02 03:01:47,421 Solving with option ('cplex', 60, 600)
+2020-12-02 03:01:47,429 Building the model
+2020-12-02 03:01:47,441 Solving the model
+2020-12-02 03:01:47,857 Solving with option ('cplex', 60, 1500)
+2020-12-02 03:01:47,865 Building the model
+2020-12-02 03:01:47,878 Solving the model
+2020-12-02 03:01:48,338 Solving with option ('cplex', 300, 600)
+2020-12-02 03:01:48,345 Building the model
+2020-12-02 03:01:48,361 Solving the model
+2020-12-02 03:01:48,862 Solving with option ('cplex', 300, 1500)
+2020-12-02 03:01:48,873 Building the model
+2020-12-02 03:01:48,889 Solving the model
+2020-12-02 03:01:49,374 Solving with option ('gurobi', 60, 600)
+2020-12-02 03:01:49,382 Building the model
+2020-12-02 03:01:49,400 Solving the model
+2020-12-02 03:01:49,882 Solving with option ('gurobi', 60, 1500)
+2020-12-02 03:01:49,891 Building the model
+2020-12-02 03:01:49,908 Solving the model
+2020-12-02 03:01:50,360 Solving with option ('gurobi', 300, 600)
+2020-12-02 03:01:50,370 Building the model
+2020-12-02 03:01:50,388 Solving the model
+2020-12-02 03:01:50,906 Solving with option ('gurobi', 300, 1500)
+2020-12-02 03:01:50,915 Building the model
+2020-12-02 03:01:50,933 Solving the model
+2020-12-02 03:01:51,381 Solving problem berlin52
+2020-12-02 03:01:51,381 Solving with option ('cplex', 60, 600)
+2020-12-02 03:01:51,411 Building the model
+2020-12-02 03:01:51,456 Solving the model
+2020-12-02 03:01:51,968 Solving with option ('cplex', 60, 1500)
+2020-12-02 03:01:51,997 Building the model
+2020-12-02 03:01:52,040 Solving the model
+2020-12-02 03:01:52,530 Solving with option ('cplex', 300, 600)
+2020-12-02 03:01:52,558 Building the model
+2020-12-02 03:01:52,623 Solving the model
+2020-12-02 03:01:53,082 Solving with option ('cplex', 300, 1500)
+2020-12-02 03:01:53,107 Building the model
+2020-12-02 03:01:53,166 Solving the model
+2020-12-02 03:01:53,598 Solving with option ('gurobi', 60, 600)
+2020-12-02 03:01:53,621 Building the model
+2020-12-02 03:01:53,681 Solving the model
+2020-12-02 03:01:54,085 Solving with option ('gurobi', 60, 1500)
+2020-12-02 03:01:54,108 Building the model
+2020-12-02 03:01:54,143 Solving the model
+2020-12-02 03:01:54,563 Solving with option ('gurobi', 300, 600)
+2020-12-02 03:01:54,585 Building the model
+2020-12-02 03:01:54,620 Solving the model
+2020-12-02 03:01:55,054 Solving with option ('gurobi', 300, 1500)
+2020-12-02 03:01:55,077 Building the model
+2020-12-02 03:01:55,112 Solving the model
+2020-12-02 03:01:55,558 Solving problem brg180
+2020-12-02 03:01:55,558 Solving with option ('cplex', 60, 600)
+2020-12-02 03:01:55,832 Building the model
+2020-12-02 03:01:56,311 Solving the model
+2020-12-02 03:12:04,889 Solving with option ('cplex', 60, 1500)
+2020-12-02 03:12:05,282 Building the model
+2020-12-02 03:12:06,025 Solving the model
+2020-12-02 03:37:13,853 Solving with option ('cplex', 300, 600)
+2020-12-02 03:37:14,202 Building the model
+2020-12-02 03:37:14,981 Solving the model
+2020-12-02 03:47:20,514 Solving with option ('cplex', 300, 1500)
+2020-12-02 03:47:20,835 Building the model
+2020-12-02 03:47:21,447 Solving the model
+2020-12-02 04:12:26,308 Solving with option ('gurobi', 60, 600)
+2020-12-02 04:12:26,561 Building the model
+2020-12-02 04:12:27,076 Solving the model
+2020-12-02 04:18:49,935 Solving with option ('gurobi', 60, 1500)
+2020-12-02 04:18:50,167 Building the model
+2020-12-02 04:18:50,648 Solving the model
+2020-12-02 04:25:13,968 Solving with option ('gurobi', 300, 600)
+2020-12-02 04:25:14,247 Building the model
+2020-12-02 04:25:14,728 Solving the model
+2020-12-02 04:31:46,463 Solving with option ('gurobi', 300, 1500)
+2020-12-02 04:31:46,702 Building the model
+2020-12-02 04:31:47,226 Solving the model
+2020-12-02 04:38:16,510 Solving problem ch130
+2020-12-02 04:38:16,510 Solving with option ('cplex', 60, 600)
+2020-12-02 04:38:16,641 Building the model
+2020-12-02 04:38:16,930 Solving the model
+2020-12-02 04:38:27,605 Solving with option ('cplex', 60, 1500)
+2020-12-02 04:38:27,731 Building the model
+2020-12-02 04:38:27,969 Solving the model
+2020-12-02 04:38:38,748 Solving with option ('cplex', 300, 600)
+2020-12-02 04:38:38,885 Building the model
+2020-12-02 04:38:39,136 Solving the model
+2020-12-02 04:38:50,080 Solving with option ('cplex', 300, 1500)
+2020-12-02 04:38:50,207 Building the model
+2020-12-02 04:38:50,457 Solving the model
+2020-12-02 04:39:01,362 Solving with option ('gurobi', 60, 600)
+2020-12-02 04:39:01,512 Building the model
+2020-12-02 04:39:01,779 Solving the model
+2020-12-02 04:39:12,501 Solving with option ('gurobi', 60, 1500)
+2020-12-02 04:39:12,656 Building the model
+2020-12-02 04:39:12,927 Solving the model
+2020-12-02 04:39:23,510 Solving with option ('gurobi', 300, 600)
+2020-12-02 04:39:23,663 Building the model
+2020-12-02 04:39:23,925 Solving the model
+2020-12-02 04:39:34,460 Solving with option ('gurobi', 300, 1500)
+2020-12-02 04:39:34,588 Building the model
+2020-12-02 04:39:34,831 Solving the model
+2020-12-02 04:39:45,386 Solving problem ch150
+2020-12-02 04:39:45,386 Solving with option ('cplex', 60, 600)
+2020-12-02 04:39:45,554 Building the model
+2020-12-02 04:39:45,860 Solving the model
+2020-12-02 04:40:13,443 Solving with option ('cplex', 60, 1500)
+2020-12-02 04:40:13,615 Building the model
+2020-12-02 04:40:13,960 Solving the model
+2020-12-02 04:40:41,745 Solving with option ('cplex', 300, 600)
+2020-12-02 04:40:41,916 Building the model
+2020-12-02 04:40:42,233 Solving the model
+2020-12-02 04:41:10,346 Solving with option ('cplex', 300, 1500)
+2020-12-02 04:41:10,557 Building the model
+2020-12-02 04:41:10,904 Solving the model
+2020-12-02 04:41:38,828 Solving with option ('gurobi', 60, 600)
+2020-12-02 04:41:39,079 Building the model
+2020-12-02 04:41:39,497 Solving the model
+2020-12-02 04:42:04,147 Solving with option ('gurobi', 60, 1500)
+2020-12-02 04:42:04,334 Building the model
+2020-12-02 04:42:04,660 Solving the model
+2020-12-02 04:42:29,072 Solving with option ('gurobi', 300, 600)
+2020-12-02 04:42:29,246 Building the model
+2020-12-02 04:42:29,569 Solving the model
+2020-12-02 04:42:54,522 Solving with option ('gurobi', 300, 1500)
+2020-12-02 04:42:54,706 Building the model
+2020-12-02 04:42:55,035 Solving the model
+2020-12-02 04:43:19,494 Solving problem eil101
+2020-12-02 04:43:19,494 Solving with option ('cplex', 60, 600)
+2020-12-02 04:43:19,578 Building the model
+2020-12-02 04:43:19,693 Solving the model
+2020-12-02 04:43:24,803 Solving with option ('cplex', 60, 1500)
+2020-12-02 04:43:24,895 Building the model
+2020-12-02 04:43:25,026 Solving the model
+2020-12-02 04:43:29,571 Solving with option ('cplex', 300, 600)
+2020-12-02 04:43:29,651 Building the model
+2020-12-02 04:43:29,809 Solving the model
+2020-12-02 04:43:34,701 Solving with option ('cplex', 300, 1500)
+2020-12-02 04:43:34,804 Building the model
+2020-12-02 04:43:34,990 Solving the model
+2020-12-02 04:43:39,519 Solving with option ('gurobi', 60, 600)
+2020-12-02 04:43:39,598 Building the model
+2020-12-02 04:43:39,758 Solving the model
+2020-12-02 04:43:45,504 Solving with option ('gurobi', 60, 1500)
+2020-12-02 04:43:45,587 Building the model
+2020-12-02 04:43:45,752 Solving the model
+2020-12-02 04:43:51,015 Solving with option ('gurobi', 300, 600)
+2020-12-02 04:43:51,092 Building the model
+2020-12-02 04:43:51,252 Solving the model
+2020-12-02 04:43:56,975 Solving with option ('gurobi', 300, 1500)
+2020-12-02 04:43:57,057 Building the model
+2020-12-02 04:43:57,177 Solving the model
+2020-12-02 04:44:02,552 Solving problem eil51
+2020-12-02 04:44:02,552 Solving with option ('cplex', 60, 600)
+2020-12-02 04:44:02,575 Building the model
+2020-12-02 04:44:02,607 Solving the model
+2020-12-02 04:44:03,896 Solving with option ('cplex', 60, 1500)
+2020-12-02 04:44:03,920 Building the model
+2020-12-02 04:44:03,956 Solving the model
+2020-12-02 04:44:05,214 Solving with option ('cplex', 300, 600)
+2020-12-02 04:44:05,237 Building the model
+2020-12-02 04:44:05,271 Solving the model
+2020-12-02 04:44:06,470 Solving with option ('cplex', 300, 1500)
+2020-12-02 04:44:06,492 Building the model
+2020-12-02 04:44:06,524 Solving the model
+2020-12-02 04:44:07,617 Solving with option ('gurobi', 60, 600)
+2020-12-02 04:44:07,638 Building the model
+2020-12-02 04:44:07,667 Solving the model
+2020-12-02 04:44:08,581 Solving with option ('gurobi', 60, 1500)
+2020-12-02 04:44:08,603 Building the model
+2020-12-02 04:44:08,635 Solving the model
+2020-12-02 04:44:09,516 Solving with option ('gurobi', 300, 600)
+2020-12-02 04:44:09,535 Building the model
+2020-12-02 04:44:09,566 Solving the model
+2020-12-02 04:44:10,434 Solving with option ('gurobi', 300, 1500)
+2020-12-02 04:44:10,454 Building the model
+2020-12-02 04:44:10,515 Solving the model
+2020-12-02 04:44:11,378 Solving with method mtz
+2020-12-02 04:44:11,378 Solving problem a280
+2020-12-02 04:44:11,378 Solving with option ('cplex', 600)
+2020-12-02 04:44:11,962 Building the model
+2020-12-02 04:44:14,533 Solving the model
+2020-12-02 04:54:20,911 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 04:54:21,132 Compiling results
+2020-12-02 04:54:21,415 Solving with option ('cplex', 1500)
+2020-12-02 04:54:22,042 Building the model
+2020-12-02 04:54:24,775 Solving the model
+2020-12-02 05:19:31,436 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 05:19:31,660 Compiling results
+2020-12-02 05:19:31,978 Solving with option ('gurobi', 600)
+2020-12-02 05:19:32,612 Building the model
+2020-12-02 05:19:35,432 Solving the model
+2020-12-02 05:29:44,454 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 05:29:44,654 Compiling results
+2020-12-02 05:29:45,024 Solving with option ('gurobi', 1500)
+2020-12-02 05:29:45,754 Building the model
+2020-12-02 05:29:48,526 Solving the model
+2020-12-02 05:54:56,763 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 05:54:56,958 Compiling results
+2020-12-02 05:54:57,479 Solving problem att48
+2020-12-02 05:54:57,479 Solving with option ('cplex', 600)
+2020-12-02 05:54:57,503 Building the model
+2020-12-02 05:54:57,570 Solving the model
+2020-12-02 05:59:23,392 Compiling results
+2020-12-02 05:59:23,404 Solving with option ('cplex', 1500)
+2020-12-02 05:59:23,428 Building the model
+2020-12-02 05:59:23,500 Solving the model
+2020-12-02 06:03:49,231 Compiling results
+2020-12-02 06:03:49,243 Solving with option ('gurobi', 600)
+2020-12-02 06:03:49,267 Building the model
+2020-12-02 06:03:49,339 Solving the model
+2020-12-02 06:10:44,172 Compiling results
+2020-12-02 06:10:44,212 Solving with option ('gurobi', 1500)
+2020-12-02 06:10:44,235 Building the model
+2020-12-02 06:10:44,308 Solving the model
+2020-12-02 06:17:39,308 Compiling results
+2020-12-02 06:17:39,343 Solving problem bayg29
+2020-12-02 06:17:39,343 Solving with option ('cplex', 600)
+2020-12-02 06:17:39,352 Building the model
+2020-12-02 06:17:39,380 Solving the model
+2020-12-02 06:17:40,388 Compiling results
+2020-12-02 06:17:40,391 Solving with option ('cplex', 1500)
+2020-12-02 06:17:40,400 Building the model
+2020-12-02 06:17:40,427 Solving the model
+2020-12-02 06:17:41,406 Compiling results
+2020-12-02 06:17:41,409 Solving with option ('gurobi', 600)
+2020-12-02 06:17:41,417 Building the model
+2020-12-02 06:17:41,442 Solving the model
+2020-12-02 06:17:42,463 Compiling results
+2020-12-02 06:17:42,468 Solving with option ('gurobi', 1500)
+2020-12-02 06:17:42,476 Building the model
+2020-12-02 06:17:42,505 Solving the model
+2020-12-02 06:17:43,634 Compiling results
+2020-12-02 06:17:43,640 Solving problem bays29
+2020-12-02 06:17:43,640 Solving with option ('cplex', 600)
+2020-12-02 06:17:43,649 Building the model
+2020-12-02 06:17:43,677 Solving the model
+2020-12-02 06:17:44,869 Compiling results
+2020-12-02 06:17:44,877 Solving with option ('cplex', 1500)
+2020-12-02 06:17:44,888 Building the model
+2020-12-02 06:17:44,929 Solving the model
+2020-12-02 06:17:45,899 Compiling results
+2020-12-02 06:17:45,903 Solving with option ('gurobi', 600)
+2020-12-02 06:17:45,910 Building the model
+2020-12-02 06:17:46,289 Solving the model
+2020-12-02 06:17:46,809 Compiling results
+2020-12-02 06:17:46,814 Solving with option ('gurobi', 1500)
+2020-12-02 06:17:46,820 Building the model
+2020-12-02 06:17:46,844 Solving the model
+2020-12-02 06:17:47,359 Compiling results
+2020-12-02 06:17:47,364 Solving problem berlin52
+2020-12-02 06:17:47,364 Solving with option ('cplex', 600)
+2020-12-02 06:17:47,388 Building the model
+2020-12-02 06:17:47,462 Solving the model
+2020-12-02 06:17:49,898 Compiling results
+2020-12-02 06:17:49,905 Solving with option ('cplex', 1500)
+2020-12-02 06:17:49,931 Building the model
+2020-12-02 06:17:50,009 Solving the model
+2020-12-02 06:17:52,544 Compiling results
+2020-12-02 06:17:52,554 Solving with option ('gurobi', 600)
+2020-12-02 06:17:52,584 Building the model
+2020-12-02 06:17:52,682 Solving the model
+2020-12-02 06:17:54,734 Compiling results
+2020-12-02 06:17:54,751 Solving with option ('gurobi', 1500)
+2020-12-02 06:17:54,778 Building the model
+2020-12-02 06:17:54,866 Solving the model
+2020-12-02 06:17:56,496 Compiling results
+2020-12-02 06:17:56,510 Solving problem brg180
+2020-12-02 06:17:56,510 Solving with option ('cplex', 600)
+2020-12-02 06:17:56,778 Building the model
+2020-12-02 06:17:57,792 Solving the model
+2020-12-02 06:28:00,063 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 06:28:00,154 Compiling results
+2020-12-02 06:28:00,233 Solving with option ('cplex', 1500)
+2020-12-02 06:28:00,509 Building the model
+2020-12-02 06:28:01,685 Solving the model
+2020-12-02 06:53:04,079 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 06:53:04,172 Compiling results
+2020-12-02 06:53:04,287 Solving with option ('gurobi', 600)
+2020-12-02 06:53:04,592 Building the model
+2020-12-02 06:53:05,812 Solving the model
+2020-12-02 07:03:09,156 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 07:03:09,248 Compiling results
+2020-12-02 07:03:09,413 Solving with option ('gurobi', 1500)
+2020-12-02 07:03:09,737 Building the model
+2020-12-02 07:03:11,008 Solving the model
+2020-12-02 07:28:14,300 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 07:28:14,388 Compiling results
+2020-12-02 07:28:14,554 Solving problem ch130
+2020-12-02 07:28:14,554 Solving with option ('cplex', 600)
+2020-12-02 07:28:14,729 Building the model
+2020-12-02 07:28:15,386 Solving the model
+2020-12-02 07:38:16,729 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 07:38:16,773 Compiling results
+2020-12-02 07:38:16,984 Solving with option ('cplex', 1500)
+2020-12-02 07:38:17,133 Building the model
+2020-12-02 07:38:17,757 Solving the model
+2020-12-02 08:03:19,168 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 08:03:19,228 Compiling results
+2020-12-02 08:03:19,971 Solving with option ('gurobi', 600)
+2020-12-02 08:03:20,152 Building the model
+2020-12-02 08:03:20,854 Solving the model
+2020-12-02 08:13:22,709 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 08:13:22,758 Compiling results
+2020-12-02 08:13:22,866 Solving with option ('gurobi', 1500)
+2020-12-02 08:13:23,013 Building the model
+2020-12-02 08:13:23,601 Solving the model
+2020-12-02 08:38:25,349 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 08:38:25,404 Compiling results
+2020-12-02 08:38:25,854 Solving problem ch150
+2020-12-02 08:38:25,854 Solving with option ('cplex', 600)
+2020-12-02 08:38:26,041 Building the model
+2020-12-02 08:38:26,833 Solving the model
+2020-12-02 08:48:28,659 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 08:48:28,835 Compiling results
+2020-12-02 08:48:28,984 Solving with option ('cplex', 1500)
+2020-12-02 08:48:29,215 Building the model
+2020-12-02 08:48:30,029 Solving the model
+2020-12-02 09:13:33,414 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 09:13:33,788 Compiling results
+2020-12-02 09:13:35,080 Solving with option ('gurobi', 600)
+2020-12-02 09:13:35,262 Building the model
+2020-12-02 09:13:36,043 Solving the model
+2020-12-02 09:23:38,473 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 09:23:38,549 Compiling results
+2020-12-02 09:23:38,666 Solving with option ('gurobi', 1500)
+2020-12-02 09:23:38,851 Building the model
+2020-12-02 09:23:39,607 Solving the model
+2020-12-02 09:48:41,886 Loading a SolverResults object with an 'aborted' status, but containing a solution
+2020-12-02 09:48:42,064 Compiling results
+2020-12-02 09:48:42,515 Solving problem eil101
+2020-12-02 09:48:42,515 Solving with option ('cplex', 600)
+2020-12-02 09:48:42,621 Building the model
+2020-12-02 09:48:42,942 Solving the model
+2020-12-02 09:49:19,236 Compiling results
+2020-12-02 09:49:19,266 Solving with option ('cplex', 1500)
+2020-12-02 09:49:19,368 Building the model
+2020-12-02 09:49:19,725 Solving the model
+2020-12-02 09:49:56,125 Compiling results
+2020-12-02 09:49:56,155 Solving with option ('gurobi', 600)
+2020-12-02 09:49:56,265 Building the model
+2020-12-02 09:49:56,675 Solving the model
+2020-12-02 09:50:23,164 Compiling results
+2020-12-02 09:50:23,214 Solving with option ('gurobi', 1500)
+2020-12-02 09:50:23,302 Building the model
+2020-12-02 09:50:23,631 Solving the model
+2020-12-02 09:50:50,689 Compiling results
+2020-12-02 09:50:50,818 Solving problem eil51
+2020-12-02 09:50:50,818 Solving with option ('cplex', 600)
+2020-12-02 09:50:50,843 Building the model
+2020-12-02 09:50:50,911 Solving the model
+2020-12-02 09:50:55,253 Compiling results
+2020-12-02 09:50:55,261 Solving with option ('cplex', 1500)
+2020-12-02 09:50:55,289 Building the model
+2020-12-02 09:50:55,450 Solving the model
+2020-12-02 09:51:00,937 Compiling results
+2020-12-02 09:51:00,945 Solving with option ('gurobi', 600)
+2020-12-02 09:51:00,973 Building the model
+2020-12-02 09:51:01,092 Solving the model
+2020-12-02 09:51:03,907 Compiling results
+2020-12-02 09:51:03,922 Solving with option ('gurobi', 1500)
+2020-12-02 09:51:03,944 Building the model
+2020-12-02 09:51:04,014 Solving the model
+2020-12-02 09:51:06,841 Compiling results
+2020-12-02 09:51:06,855 Solving with method two_opt
+2020-12-02 09:51:06,855 Solving problem a280
+2020-12-02 09:51:06,855 Solving with option (60,)
+2020-12-02 09:51:07,492 Choosing best initial path
+2020-12-02 09:51:36,087 Swapping edges
+2020-12-02 09:52:10,239 Solving with option (150,)
+2020-12-02 09:52:10,880 Choosing best initial path
+2020-12-02 09:52:39,497 Swapping edges
+2020-12-02 09:54:43,951 Solving with option (300,)
+2020-12-02 09:54:44,518 Choosing best initial path
+2020-12-02 09:55:12,185 Swapping edges
+2020-12-02 09:59:53,127 Solving problem att48
+2020-12-02 09:59:53,127 Solving with option (60,)
+2020-12-02 09:59:53,144 Choosing best initial path
+2020-12-02 09:59:53,276 Swapping edges
+2020-12-02 09:59:53,804 Solving with option (150,)
+2020-12-02 09:59:53,821 Choosing best initial path
+2020-12-02 09:59:53,953 Swapping edges
+2020-12-02 09:59:54,493 Solving with option (300,)
+2020-12-02 09:59:54,511 Choosing best initial path
+2020-12-02 09:59:54,655 Swapping edges
+2020-12-02 09:59:55,274 Solving problem bayg29
+2020-12-02 09:59:55,274 Solving with option (60,)
+2020-12-02 09:59:55,282 Choosing best initial path
+2020-12-02 09:59:55,316 Swapping edges
+2020-12-02 09:59:55,448 Solving with option (150,)
+2020-12-02 09:59:55,454 Choosing best initial path
+2020-12-02 09:59:55,490 Swapping edges
+2020-12-02 09:59:55,618 Solving with option (300,)
+2020-12-02 09:59:55,626 Choosing best initial path
+2020-12-02 09:59:55,660 Swapping edges
+2020-12-02 09:59:55,791 Solving problem bays29
+2020-12-02 09:59:55,792 Solving with option (60,)
+2020-12-02 09:59:55,797 Choosing best initial path
+2020-12-02 09:59:55,833 Swapping edges
+2020-12-02 09:59:55,903 Solving with option (150,)
+2020-12-02 09:59:55,910 Choosing best initial path
+2020-12-02 09:59:55,953 Swapping edges
+2020-12-02 09:59:56,021 Solving with option (300,)
+2020-12-02 09:59:56,027 Choosing best initial path
+2020-12-02 09:59:56,062 Swapping edges
+2020-12-02 09:59:56,133 Solving problem berlin52
+2020-12-02 09:59:56,133 Solving with option (60,)
+2020-12-02 09:59:56,156 Choosing best initial path
+2020-12-02 09:59:56,353 Swapping edges
+2020-12-02 09:59:56,966 Solving with option (150,)
+2020-12-02 09:59:56,985 Choosing best initial path
+2020-12-02 09:59:57,152 Swapping edges
+2020-12-02 09:59:57,709 Solving with option (300,)
+2020-12-02 09:59:57,728 Choosing best initial path
+2020-12-02 09:59:57,894 Swapping edges
+2020-12-02 09:59:58,455 Solving problem brg180
+2020-12-02 09:59:58,456 Solving with option (60,)
+2020-12-02 09:59:58,676 Choosing best initial path
+2020-12-02 10:00:05,696 Swapping edges
+2020-12-02 10:00:14,397 Solving with option (150,)
+2020-12-02 10:00:14,617 Choosing best initial path
+2020-12-02 10:00:21,867 Swapping edges
+2020-12-02 10:00:30,685 Solving with option (300,)
+2020-12-02 10:00:30,903 Choosing best initial path
+2020-12-02 10:00:38,245 Swapping edges
+2020-12-02 10:00:47,033 Solving problem ch130
+2020-12-02 10:00:47,033 Solving with option (60,)
+2020-12-02 10:00:47,183 Choosing best initial path
+2020-12-02 10:00:49,873 Swapping edges
+2020-12-02 10:01:44,520 Solving with option (150,)
+2020-12-02 10:01:44,637 Choosing best initial path
+2020-12-02 10:01:47,567 Swapping edges
+2020-12-02 10:02:42,510 Solving with option (300,)
+2020-12-02 10:02:42,644 Choosing best initial path
+2020-12-02 10:02:45,252 Swapping edges
+2020-12-02 10:03:40,194 Solving problem ch150
+2020-12-02 10:03:40,194 Solving with option (60,)
+2020-12-02 10:03:40,350 Choosing best initial path
+2020-12-02 10:03:44,384 Swapping edges
+2020-12-02 10:04:40,923 Solving with option (150,)
+2020-12-02 10:04:41,085 Choosing best initial path
+2020-12-02 10:04:45,066 Swapping edges
+2020-12-02 10:05:44,925 Solving with option (300,)
+2020-12-02 10:05:45,089 Choosing best initial path
+2020-12-02 10:05:49,180 Swapping edges
+2020-12-02 10:06:49,094 Solving problem eil101
+2020-12-02 10:06:49,095 Solving with option (60,)
+2020-12-02 10:06:49,167 Choosing best initial path
+2020-12-02 10:06:50,514 Swapping edges
+2020-12-02 10:07:06,915 Solving with option (150,)
+2020-12-02 10:07:06,987 Choosing best initial path
+2020-12-02 10:07:08,252 Swapping edges
+2020-12-02 10:07:24,733 Solving with option (300,)
+2020-12-02 10:07:24,811 Choosing best initial path
+2020-12-02 10:07:26,041 Swapping edges
+2020-12-02 10:07:42,350 Solving problem eil51
+2020-12-02 10:07:42,350 Solving with option (60,)
+2020-12-02 10:07:42,371 Choosing best initial path
+2020-12-02 10:07:42,556 Swapping edges
+2020-12-02 10:07:43,409 Solving with option (150,)
+2020-12-02 10:07:43,427 Choosing best initial path
+2020-12-02 10:07:43,583 Swapping edges
+2020-12-02 10:07:44,390 Solving with option (300,)
+2020-12-02 10:07:44,408 Choosing best initial path
+2020-12-02 10:07:44,565 Swapping edges
+2020-12-02 10:07:45,387 Solving with method christofides
+2020-12-02 10:07:45,387 Solving problem a280
+2020-12-02 10:07:45,387 Solving without options
+2020-12-02 10:07:46,819 Solving problem att48
+2020-12-02 10:07:46,819 Solving without options
+2020-12-02 10:07:46,874 Solving problem bayg29
+2020-12-02 10:07:46,875 Solving without options
+2020-12-02 10:07:46,887 Solving problem bays29
+2020-12-02 10:07:46,887 Solving without options
+2020-12-02 10:07:46,905 Solving problem berlin52
+2020-12-02 10:07:46,906 Solving without options
+2020-12-02 10:07:46,945 Solving problem brg180
+2020-12-02 10:07:46,945 Solving without options
+2020-12-02 10:07:47,268 Solving problem ch130
+2020-12-02 10:07:47,268 Solving without options
+2020-12-02 10:07:47,550 Solving problem ch150
+2020-12-02 10:07:47,550 Solving without options
+2020-12-02 10:07:47,903 Solving problem eil101
+2020-12-02 10:07:47,903 Solving without options
+2020-12-02 10:07:48,102 Solving problem eil51
+2020-12-02 10:07:48,102 Solving without options
